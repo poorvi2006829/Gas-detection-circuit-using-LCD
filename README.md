@@ -43,12 +43,6 @@ Designed and simulated in **Tinkercad**.
 
 > **Note:** The LCD data lines are driven in 4-bit mode, so only 6 of the 8 data pins (D4–D7 plus RS and Enable) are wired to the Arduino.
 
-## Circuit Diagrams
-
-| Breadboard View | Schematic View |
-|---|---|
-| ![Breadboard](Gas_detection_circuit_using_LCD.png) | ![Schematic](schematic_cropped.jpg) |
-
 ## Applications
 
 - **Home safety** — early warning for LPG or smoke leaks in kitchens and utility rooms
